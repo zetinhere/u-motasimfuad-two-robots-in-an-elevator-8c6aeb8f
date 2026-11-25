@@ -1,0 +1,14 @@
+{
+  "name": "u-motasimfuad-two-robots-in-an-elevator-8c6aeb8f",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "description": "One line of awkward robot small talk in an elevator, picked by scoring drafts against the published judge brief and written to /output/entry.txt for make.fun.",
+  "engines": {
+    "node": ">=22.18"
+  },
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
